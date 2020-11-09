@@ -1,0 +1,74 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #eceef1;
+    font-size: 12px;
+    color: #505050;
+    margin: 10px 40px;
+}
+
+.sign-in-container {
+    font-size: 12px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+main {
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.header-text {
+    line-height: 18px;
+    margin-right: 20px;
+}
+
+a {
+    color: #0077c5;
+    text-decoration: none;
+}
+
+}
+.form-section {
+    text-align: center;
+    margin: 20px 0;
+    padding: 30px 30px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+}
+
+.form-text {
+    color: #4c4c4c;
+}
+
+.form-text h2 {
+    font-size: 24px;
+}
+.form-subtext {
+    padding-top: 20px;
+    line-height: 18px;
+}
+/* Main Form section */
+.main-form {
+    padding-top: 20px;
+    font-size: 1.25em;
+    text-align: left;
+}
+
+input {
+    margin-top: 10px;
+    padding: 10px 0;
+    width: 320px;
+    min-width: 160px;
+    display: block;
+    border: 1px solid lightgray;
+}
+
+
+.italic {
+    font-style: italic;
+}
